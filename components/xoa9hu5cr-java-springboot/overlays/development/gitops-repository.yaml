@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xoa9hu5cr-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/xoa9hu5cr-java-springboot-gitops
